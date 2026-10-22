@@ -1,0 +1,9 @@
+Steamworks.NET.dll é um componente de terceiros, distribuído sob a licença MIT.
+
+Projeto: Steamworks.NET
+Autor: Riley Labrecque
+Repositório oficial: https://github.com/rlabrecque/Steamworks.NET
+
+Esta DLL é usada aqui apenas como dependência de runtime (wrapper .NET para a
+Steamworks API). Consulte o repositório oficial para o texto completo da
+licença MIT e os termos exatos de uso/redistribuição.

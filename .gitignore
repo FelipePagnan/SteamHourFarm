@@ -1,0 +1,37 @@
+# Arquivos compilados e temporários
+**/bin/
+**/obj/
+**/Debug/
+
+# Logs
+*.log
+steam_hour_farm.log
+idleworker-error.log
+
+# Arquivos do Visual Studio
+.vs/
+*.suo
+*.user
+*.tmp
+*.temp
+
+# Arquivos do Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Arquivos do macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Arquivos do Linux
+*~
+
+# Diretórios de build
+build/
+dist/
+
+# Arquivos de configuração local
+appsettings.json
+*.local
