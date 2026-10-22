@@ -74,3 +74,4 @@ Pagnan — 2026
 ## Licença
 
 Código próprio deste projeto distribuído sob licença MIT. As dependências de terceiros listadas acima mantêm suas licenças originais.
+"# SteamHourFarm" 
